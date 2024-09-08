@@ -1,0 +1,12 @@
+Use VS Code CMake extension
+1. Configure compiler if not set
+2. Delete 'build' folder if exist
+3. Build (to check the build is success) or just run Test
+
+Use command line
+1. mkdir build && cd build
+2. cmake ..
+3. cmake --build .
+4. ctest
+
+Refer screenshot to see the action
